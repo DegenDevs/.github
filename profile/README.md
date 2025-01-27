@@ -4,7 +4,7 @@
 
 # 💫 About Us:
 
-A highly skilled Full Stack Developer with comprehensive experience in both front-end and back-end technologies, including React, NextJS, Python Flask and SQL/NOSQL databases. Known for designing and implementing scalable, high performance web applications, and RESTful APIs. Proficient in utilizing cutting-edge frameworks and coding languages while maintaining a strong adherence to software design best practices and quality assurance protocols. Committed to fostering team collaboration, spearheading agile practices, and tackling complex technical challenges to elevate user engagement and experience.
+Full Stack Development Studio with comprehensive experience in both front-end and back-end technologies, including React, NextJS, Python Flask and SQL/NOSQL databases. Known for designing and implementing scalable, high performance web applications, and RESTful APIs. Proficient in utilizing cutting-edge frameworks and coding languages while maintaining a strong adherence to software design best practices and quality assurance protocols. Committed to fostering team collaboration, spearheading agile practices, and tackling complex technical challenges to elevate user engagement and experience.
 
 # 💻 Tech Stack:
 
